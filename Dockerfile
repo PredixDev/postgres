@@ -3,10 +3,10 @@ FROM alpine:3.8
 
 LABEL maintainer="Predix Edge Application Services Team"
 LABEL hub="https://hub.docker.com"
-LABEL org="https://hub.docker.com/u/predixadoption"
+LABEL org="https://hub.docker.com/u/predixedge"
 LABEL repo="predix-edge-postgres"
 LABEL imagename="predix-edge-postgres-amd64"
-LABEL version="1.0.7"
+LABEL version="1.0.8"
 LABEL support="https://forum.predix.io"
 LABEL license="https://github.com/PredixDev/predix-docker-samples/blob/master/LICENSE.md"
 
